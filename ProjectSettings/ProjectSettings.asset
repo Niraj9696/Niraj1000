@@ -748,12 +748,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 4c2930f6-5f81-40cb-b708-1b02a6733d9a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
+  projectName: My project
   organizationId: pklniraj
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
