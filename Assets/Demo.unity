@@ -700,6 +700,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: URP_Tree_1
       objectReference: {fileID: 0}
+    - target: {fileID: 3734529646151074635, guid: 022485ff60e4a26418217d8ab778a812,
+        type: 3}
+      propertyPath: m_LODs.Array.data[0].screenRelativeHeight
+      value: 0.6007364
+      objectReference: {fileID: 0}
     - target: {fileID: 6744884194787191862, guid: 022485ff60e4a26418217d8ab778a812,
         type: 3}
       propertyPath: m_LocalPosition.x
