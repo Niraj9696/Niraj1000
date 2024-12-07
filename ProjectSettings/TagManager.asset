@@ -5,21 +5,22 @@ TagManager:
   serializedVersion: 2
   tags:
   - FlythroughCam
+  - CinemachineTarget
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
+  - Post Processing
+  - Enemy
   - Skybox
   - Player
   - PostProcessing
   - SetDressing
   - 
-  - 
+  - Plane
   - Vehicles
   - Navmesh
   - Environment
@@ -29,7 +30,7 @@ TagManager:
   - Ragdoll
   - WaterGeometry
   - Terrain
-  - Enemy
+  - 
   - Cameras
   - Props
   - Avoid
