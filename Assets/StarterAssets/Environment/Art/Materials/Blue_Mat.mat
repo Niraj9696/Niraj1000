@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3340707086506251664
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,7 +20,11 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:Assets/StarterAssets/Environment/Art/Materials/Blue_Mat.mat
   m_Name: Blue_Mat
+=======
+  m_Name: HealthCrate
+>>>>>>> Stashed changes:Assets/3DGamekitLite/Art/Materials/Interactables/HealthCrate.mat
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -25,7 +42,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
+<<<<<<< Updated upstream:Assets/StarterAssets/Environment/Art/Materials/Blue_Mat.mat
         m_Texture: {fileID: 0}
+=======
+        m_Texture: {fileID: 2800000, guid: f5b30585d8848424c82d7d82b50fa294, type: 3}
+>>>>>>> Stashed changes:Assets/3DGamekitLite/Art/Materials/Interactables/HealthCrate.mat
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -68,10 +89,25 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< Updated upstream:Assets/StarterAssets/Environment/Art/Materials/Blue_Mat.mat
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+=======
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ThirdTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+>>>>>>> Stashed changes:Assets/3DGamekitLite/Art/Materials/Interactables/HealthCrate.mat
     - unity_LightmapsInd:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -115,6 +151,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+<<<<<<< Updated upstream:Assets/StarterAssets/Environment/Art/Materials/Blue_Mat.mat
     - _BaseColor: {r: 0.48507768, g: 0.67556465, b: 0.7830189, a: 1}
     - _Color: {r: 0.48507768, g: 0.6755646, b: 0.7830188, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
@@ -133,3 +170,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 7
+=======
+    - _BaseColor: {r: 0.06884121, g: 0.8584906, b: 0.11172769, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+  m_BuildTextureStacks: []
+>>>>>>> Stashed changes:Assets/3DGamekitLite/Art/Materials/Interactables/HealthCrate.mat

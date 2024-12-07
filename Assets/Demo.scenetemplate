@@ -17,6 +17,7 @@ MonoBehaviour:
   description: 
   preview: {fileID: 0}
   dependencies:
+<<<<<<< Updated upstream
   - dependency: {fileID: 2800000, guid: f4bb11a5cad05164092275aaa04f40e5, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: ba41f1637356eba48891721f9a089cd1, type: 2}
@@ -38,6 +39,11 @@ MonoBehaviour:
   - dependency: {fileID: 2800000, guid: 0b5f0690246a9204f9f1047a6a8785f7, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: f0d6c409c63593e47bde360418924e1e, type: 2}
+=======
+  - dependency: {fileID: 2100000, guid: 3930d7b21ea60ef4d999115dbc45e8b4, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 24100000, guid: 248799cb4acba48f7b3ee842a80f788c, type: 2}
+>>>>>>> Stashed changes
     instantiationMode: 0
   - dependency: {fileID: 3401243874588702902, guid: e604e0d506abdee449cae302dfc126e4,
       type: 3}
@@ -119,6 +125,7 @@ MonoBehaviour:
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: 188dfe7e559f13248ba2c41eb5a59328, type: 3}
     instantiationMode: 1
+<<<<<<< Updated upstream
   - dependency: {fileID: 919132149155446097, guid: 419b474d3d31ef54e9c101d6e7213aee,
       type: 3}
     instantiationMode: 0
@@ -127,10 +134,14 @@ MonoBehaviour:
   - dependency: {fileID: 2800000, guid: 212e4d517c50d8c439af5151b8b971ae, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: 5075ca828a84d014a8a20f00c0b63146, type: 2}
+=======
+  - dependency: {fileID: 2100000, guid: 70bbbafb8fc3c5142b21f29a35510495, type: 2}
+>>>>>>> Stashed changes
     instantiationMode: 0
   - dependency: {fileID: 7373949532907525238, guid: 1ce0560a28e93bb4d82642164ee5ac5a,
       type: 3}
     instantiationMode: 0
+<<<<<<< Updated upstream
   - dependency: {fileID: 919132149155446097, guid: 0a9ad2b5edd0c6d49bc3aebe133e3850,
       type: 3}
     instantiationMode: 0
@@ -147,6 +158,15 @@ MonoBehaviour:
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: 431eca8a4d608df45a1aeb6d358ee2a9, type: 3}
     instantiationMode: 0
+=======
+  - dependency: {fileID: 2800000, guid: 5f15de87f870df74f88aae3eaa3ca31b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 1564851569484282, guid: 7a87b73c9eb3b0f42bd28e2e20aba3be,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: 118b66081817b4c50b8c2473c6ee6233, type: 3}
+    instantiationMode: 1
+>>>>>>> Stashed changes
   templatePipeline: {fileID: 0}
   badge: {fileID: 0}
   addToDefaults: 0
