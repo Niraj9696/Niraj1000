@@ -230,11 +230,11 @@
                 },
                 {
                     "name": "",
-                    "id": "6de3f047-b785-40f0-9c7d-1a43a1921dcf",
-                    "path": "<Mouse>/rightButton",
+                    "id": "bd27d592-6710-423d-9594-ca990bf45fba",
+                    "path": "<Keyboard>/h",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
+                    "groups": "KeyboardMouse",
                     "action": "Shoot",
                     "isComposite": false,
                     "isPartOfComposite": false
