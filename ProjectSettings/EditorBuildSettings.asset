@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/ExampleScene.unity
     guid: 12dd7bb27c47ea1458c8d4ecd98af2cc
   - enabled: 1
-    path: Assets/Niraj100/Scene/Terrain with light.unity
-    guid: 9667d7a886ec9f54e821a81acc01523b
+    path: Assets/Niraj100/Scene/quarter final.unity
+    guid: 6c7b08b4e987b44448f7eceb9a94e70a
   m_configObjects: {}
